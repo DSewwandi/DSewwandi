@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Add your LinkedIn or personal portfolio link here -->
-  🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+  🌐 [LinkedIn](www.linkedin.com/in/dilumi-sewwandi)  
 </p>
 
 ---
@@ -71,7 +71,8 @@
 - 🧠 **Loan Approval Prediction** using Neural Networks  
 - 📉 **Stock Market Forecasting** with RNN and LSTM models  
 - 📊 **Power BI Dashboards** for call center & construction data  
-- 🧮 **Interactive EDI Explainer Video** created with Canva & AI voice tools  
+- 🧮 **House Price Prediction** Using Machine Learning
+- - 📊 **Railway Data Analysis** Using R Markdown  
 - 🛒 **Totopaxa E-Commerce Site** – Custom product store built with HTML, CSS, PHP, JS  
 
 ---
