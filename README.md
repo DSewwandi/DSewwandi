@@ -53,9 +53,6 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
@@ -72,7 +69,7 @@
 - 📉 **Stock Market Forecasting** with RNN and LSTM models  
 - 📊 **Power BI Dashboards** for call center & construction data  
 - 🧮 **House Price Prediction** Using Machine Learning
-- - 📊 **Railway Data Analysis** Using R Markdown  
+- 📊 **Railway Data Analysis** Using R Markdown  
 - 🛒 **Totopaxa E-Commerce Site** – Custom product store built with HTML, CSS, PHP, JS  
 
 ---
